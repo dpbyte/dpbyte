@@ -1,5 +1,12 @@
 # 💫 About Me:
-<br>🔭 I work on RPA, Intelligent Automation and Automation Infrastructure 🤖 Experienced with Automation Anywhere A360 and enterprise automation 🐍 Working with Python, SQL, PowerShell and automation scripting ⚙️ Interested in DevOps, Git/GitHub, CI/CD and infrastructure automation ☁️ Currently expanding my knowledge in Azure, AI and Cloud technologies 🤝 Open to collaborating on automation, DevOps and open-source projects 💬 Ask me about RPA, Python, SQL, Git, PowerShell and Automation Anywhere ⚡ I like simplifying complex operational problems through automation
+<br>🔭 I work on RPA, Intelligent Automation and Automation Infrastructure 
+🤖 Experienced with Automation Anywhere A360 and enterprise automation 
+🐍 Working with Python, SQL, PowerShell and automation scripting 
+⚙️ Interested in DevOps, Git/GitHub, CI/CD and infrastructure automation 
+☁️ Currently expanding my knowledge in Azure, AI and Cloud technologies 
+🤝 Open to collaborating on automation, DevOps and open-source projects 
+💬 Ask me about RPA, Python, SQL, Git, PowerShell and Automation Anywhere 
+⚡ I like simplifying complex operational problems through automation
 
 
 ## 🌐 Socials:
